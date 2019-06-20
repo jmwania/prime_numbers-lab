@@ -1,0 +1,3 @@
+[submodule "prime_numbers-lab"]
+	path = prime_numbers-lab
+	url = https://github.com/jmwania/prime_numbers-lab.git
